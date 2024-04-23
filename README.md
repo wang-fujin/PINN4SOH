@@ -51,7 +51,7 @@ Therefore, the results obtained from the above process are not expected to be ex
 However, it is evident that the results obtained from our method are superior to those of MLP and CNN.**
 
 In addition, we also provide the results of our training, 
-which are saved in the `results` folder, `results analysis` folder, and `results_fine-tuning` folder. 
+which are saved in the `results` folder and `results analysis` folder. 
 These results correspond exactly to the data in our manuscript.
 
 What's more, we also provide the codes corresponding to the Figures in our manuscript, 
