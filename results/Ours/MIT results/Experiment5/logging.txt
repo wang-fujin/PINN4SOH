@@ -1,0 +1,430 @@
+data path:
+['data/MIT data\\2017-05-12\\2017-05-12_battery-1.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-11.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-12.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-13.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-14.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-16.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-17.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-18.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-19.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-2.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-21.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-22.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-23.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-24.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-26.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-27.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-28.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-29.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-3.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-31.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-32.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-33.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-34.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-36.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-37.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-38.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-39.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-4.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-41.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-42.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-43.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-44.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-46.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-6.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-7.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-8.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-9.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-1.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-11.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-12.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-13.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-14.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-18.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-19.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-2.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-21.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-22.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-23.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-24.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-26.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-27.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-28.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-29.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-3.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-31.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-32.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-33.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-34.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-36.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-37.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-38.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-39.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-4.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-41.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-42.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-43.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-44.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-46.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-47.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-48.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-6.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-7.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-1.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-11.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-12.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-14.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-16.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-18.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-19.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-2.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-21.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-22.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-24.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-26.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-27.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-29.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-31.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-33.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-34.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-36.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-37.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-38.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-39.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-4.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-41.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-42.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-43.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-44.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-46.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-6.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-8.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-9.csv']
+data path:
+['data/MIT data\\2017-05-12\\2017-05-12_battery-10.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-15.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-20.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-25.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-30.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-35.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-40.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-45.csv', 'data/MIT data\\2017-05-12\\2017-05-12_battery-5.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-15.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-20.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-25.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-30.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-35.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-40.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-45.csv', 'data/MIT data\\2017-06-30\\2017-06-30_battery-5.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-10.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-15.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-25.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-30.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-40.csv', 'data/MIT data\\2018-04-12\\2018-04-12_battery-45.csv']
+2023-07-07 20:45 - function:_save_args - INFO - Args:
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	data:MIT
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	batch_size:512
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	normalization_method:min-max
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	epochs:200
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	early_stop:20
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	warmup_epochs:30
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	warmup_lr:0.002
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	lr:0.01
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	final_lr:0.0002
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	lr_F:0.001
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	u_layers_num:3
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	u_hidden_dim:60
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	F_layers_num:3
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	F_hidden_dim:60
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	alpha:1
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	beta:50
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	log_dir:logging.txt
+2023-07-07 20:45 - function:_save_args - CRITICAL - 	save_folder:results/MIT results/Experiment5
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:1 data loss:0.860976, PDE loss:0.230279, physics loss:0.034719, total loss:2.827225
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:2 data loss:0.398980, PDE loss:0.132938, physics loss:0.026464, total loss:1.855126
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:3 data loss:0.265757, PDE loss:0.121452, physics loss:0.052499, total loss:3.012167
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:4 data loss:0.298843, PDE loss:0.108852, physics loss:0.039912, total loss:2.403297
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:5 data loss:0.345953, PDE loss:0.085191, physics loss:0.027925, total loss:1.827391
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:6 data loss:0.326989, PDE loss:0.085787, physics loss:0.144182, total loss:7.621865
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:7 data loss:0.234679, PDE loss:0.077614, physics loss:0.052681, total loss:2.946353
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:8 data loss:0.168913, PDE loss:0.064351, physics loss:0.034868, total loss:1.976667
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:9 data loss:0.161350, PDE loss:0.063840, physics loss:0.056470, total loss:3.048666
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:10 data loss:0.167396, PDE loss:0.065312, physics loss:0.109666, total loss:5.715983
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:11 data loss:0.170687, PDE loss:0.064325, physics loss:0.025434, total loss:1.506737
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:12 data loss:0.170126, PDE loss:0.068341, physics loss:0.028715, total loss:1.674241
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:13 data loss:0.157059, PDE loss:0.059632, physics loss:0.053427, total loss:2.888046
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:14 data loss:0.139724, PDE loss:0.054433, physics loss:0.061361, total loss:3.262225
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:15 data loss:0.104839, PDE loss:0.046579, physics loss:0.064997, total loss:3.401251
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:16 data loss:0.097253, PDE loss:0.043348, physics loss:0.047979, total loss:2.539557
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:17 data loss:0.097651, PDE loss:0.044993, physics loss:0.048299, total loss:2.557589
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:18 data loss:0.074288, PDE loss:0.041995, physics loss:0.054545, total loss:2.843536
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:19 data loss:0.085676, PDE loss:0.043032, physics loss:0.022021, total loss:1.229749
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:20 data loss:0.087991, PDE loss:0.040456, physics loss:0.057994, total loss:3.028172
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:21 data loss:0.085142, PDE loss:0.038858, physics loss:0.042110, total loss:2.229498
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:22 data loss:0.080151, PDE loss:0.035023, physics loss:0.038416, total loss:2.035976
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:23 data loss:0.068546, PDE loss:0.036848, physics loss:0.025335, total loss:1.372162
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:24 data loss:0.062690, PDE loss:0.037055, physics loss:0.022015, total loss:1.200508
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:25 data loss:0.057661, PDE loss:0.035163, physics loss:0.035124, total loss:1.849048
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:26 data loss:0.056271, PDE loss:0.034550, physics loss:0.040798, total loss:2.130742
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:27 data loss:0.053983, PDE loss:0.034867, physics loss:0.135246, total loss:6.851128
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:28 data loss:0.048363, PDE loss:0.030603, physics loss:0.078033, total loss:3.980608
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:29 data loss:0.051900, PDE loss:0.034855, physics loss:0.044332, total loss:2.303368
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:30 data loss:0.042814, PDE loss:0.032501, physics loss:0.019461, total loss:1.048355
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:31 data loss:0.045263, PDE loss:0.029666, physics loss:0.046253, total loss:2.387559
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:32 data loss:0.041650, PDE loss:0.025495, physics loss:0.029728, total loss:1.553550
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:33 data loss:0.033900, PDE loss:0.027315, physics loss:0.024200, total loss:1.271208
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:34 data loss:0.033597, PDE loss:0.025802, physics loss:0.051399, total loss:2.629342
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:35 data loss:0.032191, PDE loss:0.026219, physics loss:0.033847, total loss:1.750773
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:36 data loss:0.030956, PDE loss:0.026016, physics loss:0.039926, total loss:2.053262
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:37 data loss:0.032334, PDE loss:0.025442, physics loss:0.052132, total loss:2.664370
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:38 data loss:0.026866, PDE loss:0.025489, physics loss:0.033317, total loss:1.718204
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:39 data loss:0.025988, PDE loss:0.023968, physics loss:0.024404, total loss:1.270150
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:40 data loss:0.026089, PDE loss:0.023752, physics loss:0.034505, total loss:1.775080
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:41 data loss:0.024034, PDE loss:0.021913, physics loss:0.037665, total loss:1.929191
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:42 data loss:0.025647, PDE loss:0.024236, physics loss:0.043506, total loss:2.225178
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:43 data loss:0.025645, PDE loss:0.021463, physics loss:0.065222, total loss:3.308200
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:44 data loss:0.022905, PDE loss:0.024313, physics loss:0.036957, total loss:1.895048
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:45 data loss:0.022241, PDE loss:0.020229, physics loss:0.029732, total loss:1.529084
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:46 data loss:0.023956, PDE loss:0.020212, physics loss:0.044661, total loss:2.277203
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:47 data loss:0.021372, PDE loss:0.019299, physics loss:0.038358, total loss:1.958564
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:48 data loss:0.021843, PDE loss:0.017342, physics loss:0.029849, total loss:1.531631
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:49 data loss:0.019858, PDE loss:0.017389, physics loss:0.038716, total loss:1.973039
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:50 data loss:0.016874, PDE loss:0.017668, physics loss:0.048413, total loss:2.455195
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:51 data loss:0.019625, PDE loss:0.017827, physics loss:0.031484, total loss:1.611628
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:52 data loss:0.017061, PDE loss:0.016997, physics loss:0.025706, total loss:1.319376
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:53 data loss:0.017117, PDE loss:0.017113, physics loss:0.023835, total loss:1.225988
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:54 data loss:0.015204, PDE loss:0.016269, physics loss:0.051964, total loss:2.629673
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:55 data loss:0.017392, PDE loss:0.016399, physics loss:0.022384, total loss:1.152993
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:56 data loss:0.015249, PDE loss:0.015140, physics loss:0.035063, total loss:1.783520
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:57 data loss:0.015942, PDE loss:0.015307, physics loss:0.032257, total loss:1.644109
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:58 data loss:0.018544, PDE loss:0.016020, physics loss:0.040036, total loss:2.036368
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:59 data loss:0.013913, PDE loss:0.014891, physics loss:0.030436, total loss:1.550612
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:60 data loss:0.013711, PDE loss:0.013929, physics loss:0.023530, total loss:1.204126
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:61 data loss:0.014183, PDE loss:0.013513, physics loss:0.055853, total loss:2.820323
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:62 data loss:0.014446, PDE loss:0.014153, physics loss:0.029396, total loss:1.498393
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:63 data loss:0.012302, PDE loss:0.013021, physics loss:0.029505, total loss:1.500576
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:64 data loss:0.012256, PDE loss:0.013372, physics loss:0.025321, total loss:1.291660
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:65 data loss:0.011734, PDE loss:0.013528, physics loss:0.064099, total loss:3.230213
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:66 data loss:0.013482, PDE loss:0.012798, physics loss:0.051877, total loss:2.620106
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:67 data loss:0.013216, PDE loss:0.013016, physics loss:0.033213, total loss:1.686874
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:68 data loss:0.011558, PDE loss:0.013165, physics loss:0.057226, total loss:2.886034
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:69 data loss:0.011317, PDE loss:0.012726, physics loss:0.096262, total loss:4.837139
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:70 data loss:0.009842, PDE loss:0.012771, physics loss:0.048301, total loss:2.437656
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:71 data loss:0.010322, PDE loss:0.012953, physics loss:0.036269, total loss:1.836722
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:72 data loss:0.010667, PDE loss:0.011124, physics loss:0.040516, total loss:2.047589
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:73 data loss:0.009666, PDE loss:0.012576, physics loss:0.039360, total loss:1.990235
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:74 data loss:0.009444, PDE loss:0.011596, physics loss:0.024455, total loss:1.243811
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:75 data loss:0.008873, PDE loss:0.011047, physics loss:0.061773, total loss:3.108576
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:76 data loss:0.009395, PDE loss:0.011047, physics loss:0.023209, total loss:1.180874
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:77 data loss:0.009614, PDE loss:0.012138, physics loss:0.025285, total loss:1.286015
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:78 data loss:0.008566, PDE loss:0.010467, physics loss:0.034151, total loss:1.726605
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:79 data loss:0.010188, PDE loss:0.011279, physics loss:0.028338, total loss:1.438367
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:80 data loss:0.007903, PDE loss:0.010640, physics loss:0.045768, total loss:2.306941
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:81 data loss:0.008855, PDE loss:0.009947, physics loss:0.059653, total loss:3.001451
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:82 data loss:0.008441, PDE loss:0.011327, physics loss:0.046302, total loss:2.334892
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:83 data loss:0.007661, PDE loss:0.009405, physics loss:0.032241, total loss:1.629116
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:84 data loss:0.007238, PDE loss:0.010105, physics loss:0.040974, total loss:2.066031
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:85 data loss:0.007999, PDE loss:0.010045, physics loss:0.072442, total loss:3.640132
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:86 data loss:0.007748, PDE loss:0.009124, physics loss:0.043898, total loss:2.211794
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:87 data loss:0.008037, PDE loss:0.009651, physics loss:0.042686, total loss:2.151985
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:88 data loss:0.007007, PDE loss:0.008966, physics loss:0.041905, total loss:2.111225
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:89 data loss:0.007729, PDE loss:0.010438, physics loss:0.063931, total loss:3.214726
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:90 data loss:0.006636, PDE loss:0.008296, physics loss:0.053739, total loss:2.701876
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:91 data loss:0.007016, PDE loss:0.008872, physics loss:0.038670, total loss:1.949409
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:92 data loss:0.006526, PDE loss:0.009772, physics loss:0.042819, total loss:2.157264
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:93 data loss:0.007280, PDE loss:0.009452, physics loss:0.038996, total loss:1.966549
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:94 data loss:0.006856, PDE loss:0.008638, physics loss:0.035535, total loss:1.792222
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:95 data loss:0.006187, PDE loss:0.008172, physics loss:0.046293, total loss:2.328988
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:96 data loss:0.006658, PDE loss:0.008341, physics loss:0.025620, total loss:1.296022
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:97 data loss:0.006200, PDE loss:0.008173, physics loss:0.043961, total loss:2.212413
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:98 data loss:0.006140, PDE loss:0.008453, physics loss:0.062643, total loss:3.146760
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:99 data loss:0.006226, PDE loss:0.008008, physics loss:0.042288, total loss:2.128658
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:100 data loss:0.006450, PDE loss:0.009320, physics loss:0.039360, total loss:1.983763
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:101 data loss:0.005745, PDE loss:0.008471, physics loss:0.028982, total loss:1.463291
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:102 data loss:0.005777, PDE loss:0.008327, physics loss:0.027404, total loss:1.384283
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:103 data loss:0.005853, PDE loss:0.006740, physics loss:0.032645, total loss:1.644831
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:104 data loss:0.006096, PDE loss:0.007667, physics loss:0.032441, total loss:1.635817
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:105 data loss:0.005790, PDE loss:0.006962, physics loss:0.040680, total loss:2.046772
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:1 iter:106 data loss:0.005072, PDE loss:0.008766, physics loss:0.017128, total loss:0.870243
+2023-07-07 20:45 - function:Train - INFO - [Train] epoch:1, lr:0.002000, data loss:0.057885, PDE loss:0.028251, physics loss:0.043094, total loss:2.240818
+2023-07-07 20:45 - function:Train - INFO - [Valid] epoch:1, MSE: 0.002111150184646249
+2023-07-07 20:45 - function:Train - INFO - [Test] MSE: 0.00190873, MAE: 0.038299, MAPE: 0.039259, RMSE: 0.043689
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:1 data loss:0.005052, PDE loss:0.007662, physics loss:0.066737, total loss:3.349552
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:2 data loss:0.005427, PDE loss:0.007417, physics loss:0.048486, total loss:2.437140
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:3 data loss:0.004821, PDE loss:0.007653, physics loss:0.076164, total loss:3.820651
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:4 data loss:0.005318, PDE loss:0.007109, physics loss:0.029379, total loss:1.481386
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:5 data loss:0.005712, PDE loss:0.007900, physics loss:0.043712, total loss:2.199213
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:6 data loss:0.004504, PDE loss:0.007335, physics loss:0.035507, total loss:1.787207
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:7 data loss:0.004984, PDE loss:0.007020, physics loss:0.127115, total loss:6.367733
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:8 data loss:0.004683, PDE loss:0.006905, physics loss:0.046117, total loss:2.317453
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:9 data loss:0.005095, PDE loss:0.006603, physics loss:0.018970, total loss:0.960199
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:10 data loss:0.005064, PDE loss:0.006881, physics loss:0.037599, total loss:1.891881
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:11 data loss:0.004712, PDE loss:0.006719, physics loss:0.023279, total loss:1.175372
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:12 data loss:0.004611, PDE loss:0.006750, physics loss:0.160781, total loss:8.050433
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:13 data loss:0.004465, PDE loss:0.007123, physics loss:0.028545, total loss:1.438834
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:14 data loss:0.004241, PDE loss:0.006651, physics loss:0.034090, total loss:1.715407
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:15 data loss:0.004237, PDE loss:0.006772, physics loss:0.028149, total loss:1.418454
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:16 data loss:0.005068, PDE loss:0.006383, physics loss:0.046358, total loss:2.329330
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:17 data loss:0.004351, PDE loss:0.006621, physics loss:0.024449, total loss:1.233433
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:18 data loss:0.004618, PDE loss:0.006290, physics loss:0.055850, total loss:2.803385
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:19 data loss:0.003945, PDE loss:0.006319, physics loss:0.051059, total loss:2.563205
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:20 data loss:0.004367, PDE loss:0.006082, physics loss:0.032344, total loss:1.627669
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:21 data loss:0.004280, PDE loss:0.006570, physics loss:0.034389, total loss:1.730325
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:22 data loss:0.004006, PDE loss:0.006281, physics loss:0.032179, total loss:1.619215
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:23 data loss:0.003726, PDE loss:0.005809, physics loss:0.039396, total loss:1.979317
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:24 data loss:0.004209, PDE loss:0.006409, physics loss:0.035787, total loss:1.799973
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:25 data loss:0.003928, PDE loss:0.006028, physics loss:0.047461, total loss:2.383023
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:26 data loss:0.004244, PDE loss:0.005823, physics loss:0.031812, total loss:1.600650
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:27 data loss:0.004230, PDE loss:0.005853, physics loss:0.041769, total loss:2.098524
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:28 data loss:0.003646, PDE loss:0.005529, physics loss:0.026242, total loss:1.321294
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:29 data loss:0.003643, PDE loss:0.005984, physics loss:0.045429, total loss:2.281080
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:30 data loss:0.003875, PDE loss:0.005822, physics loss:0.037745, total loss:1.896962
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:31 data loss:0.003243, PDE loss:0.005555, physics loss:0.062047, total loss:3.111166
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:32 data loss:0.004014, PDE loss:0.005971, physics loss:0.030938, total loss:1.556875
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:33 data loss:0.003421, PDE loss:0.006270, physics loss:0.054023, total loss:2.710854
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:34 data loss:0.003339, PDE loss:0.005825, physics loss:0.073626, total loss:3.690457
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:35 data loss:0.003002, PDE loss:0.005328, physics loss:0.035115, total loss:1.764089
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:36 data loss:0.003437, PDE loss:0.005372, physics loss:0.048178, total loss:2.417704
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:37 data loss:0.003490, PDE loss:0.005204, physics loss:0.024378, total loss:1.227594
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:38 data loss:0.003187, PDE loss:0.005615, physics loss:0.023135, total loss:1.165540
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:39 data loss:0.003640, PDE loss:0.005375, physics loss:0.031602, total loss:1.589137
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:40 data loss:0.002908, PDE loss:0.005538, physics loss:0.076527, total loss:3.834820
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:41 data loss:0.002655, PDE loss:0.004850, physics loss:0.030557, total loss:1.535374
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:42 data loss:0.003070, PDE loss:0.005081, physics loss:0.030993, total loss:1.557785
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:43 data loss:0.002850, PDE loss:0.005021, physics loss:0.057396, total loss:2.877694
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:44 data loss:0.003184, PDE loss:0.005391, physics loss:0.079859, total loss:4.001509
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:45 data loss:0.002878, PDE loss:0.004964, physics loss:0.037560, total loss:1.885841
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:46 data loss:0.002887, PDE loss:0.004938, physics loss:0.031550, total loss:1.585322
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:47 data loss:0.003162, PDE loss:0.004881, physics loss:0.042895, total loss:2.152784
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:48 data loss:0.002831, PDE loss:0.004874, physics loss:0.035178, total loss:1.766609
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:49 data loss:0.003121, PDE loss:0.005137, physics loss:0.052941, total loss:2.655312
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:50 data loss:0.002706, PDE loss:0.004720, physics loss:0.035304, total loss:1.772617
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:51 data loss:0.002783, PDE loss:0.004512, physics loss:0.044172, total loss:2.215897
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:52 data loss:0.002922, PDE loss:0.005239, physics loss:0.041213, total loss:2.068815
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:53 data loss:0.002790, PDE loss:0.005037, physics loss:0.063169, total loss:3.166274
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:54 data loss:0.002921, PDE loss:0.004492, physics loss:0.039775, total loss:1.996164
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:55 data loss:0.002974, PDE loss:0.004371, physics loss:0.048183, total loss:2.416485
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:56 data loss:0.002848, PDE loss:0.004106, physics loss:0.158616, total loss:7.937761
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:57 data loss:0.002493, PDE loss:0.004456, physics loss:0.043343, total loss:2.174108
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:58 data loss:0.002808, PDE loss:0.005196, physics loss:0.040196, total loss:2.017807
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:59 data loss:0.002556, PDE loss:0.004108, physics loss:0.032648, total loss:1.639072
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:60 data loss:0.002942, PDE loss:0.004496, physics loss:0.033006, total loss:1.657724
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:61 data loss:0.002719, PDE loss:0.004343, physics loss:0.073724, total loss:3.693278
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:62 data loss:0.002426, PDE loss:0.004371, physics loss:0.045027, total loss:2.258162
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:63 data loss:0.002786, PDE loss:0.004543, physics loss:0.030630, total loss:1.538853
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:64 data loss:0.002698, PDE loss:0.004402, physics loss:0.026288, total loss:1.321487
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:65 data loss:0.002465, PDE loss:0.004835, physics loss:0.025552, total loss:1.284881
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:66 data loss:0.002424, PDE loss:0.004108, physics loss:0.026699, total loss:1.341506
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:67 data loss:0.002482, PDE loss:0.004046, physics loss:0.031389, total loss:1.575966
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:68 data loss:0.002439, PDE loss:0.004204, physics loss:0.033897, total loss:1.701492
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:69 data loss:0.002467, PDE loss:0.004467, physics loss:0.038962, total loss:1.955026
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:70 data loss:0.002482, PDE loss:0.004256, physics loss:0.043679, total loss:2.190667
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:71 data loss:0.002419, PDE loss:0.003833, physics loss:0.036151, total loss:1.813820
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:72 data loss:0.002410, PDE loss:0.004168, physics loss:0.034524, total loss:1.732801
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:73 data loss:0.002160, PDE loss:0.003982, physics loss:0.035320, total loss:1.772126
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:74 data loss:0.002333, PDE loss:0.003958, physics loss:0.042133, total loss:2.112963
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:75 data loss:0.002332, PDE loss:0.003727, physics loss:0.070171, total loss:3.514621
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:76 data loss:0.002339, PDE loss:0.004221, physics loss:0.103877, total loss:5.200399
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:77 data loss:0.002152, PDE loss:0.004197, physics loss:0.020891, total loss:1.050878
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:78 data loss:0.002331, PDE loss:0.003781, physics loss:0.041170, total loss:2.064628
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:79 data loss:0.002242, PDE loss:0.003866, physics loss:0.038046, total loss:1.908396
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:80 data loss:0.002406, PDE loss:0.004129, physics loss:0.046129, total loss:2.313008
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:81 data loss:0.002186, PDE loss:0.003860, physics loss:0.037189, total loss:1.865472
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:82 data loss:0.002334, PDE loss:0.004223, physics loss:0.023655, total loss:1.189321
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:83 data loss:0.002366, PDE loss:0.003520, physics loss:0.020591, total loss:1.035420
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:84 data loss:0.002033, PDE loss:0.003746, physics loss:0.026306, total loss:1.321069
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:85 data loss:0.002087, PDE loss:0.003904, physics loss:0.032943, total loss:1.653147
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:86 data loss:0.002288, PDE loss:0.004009, physics loss:0.032078, total loss:1.610192
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:87 data loss:0.002171, PDE loss:0.004647, physics loss:0.028408, total loss:1.427229
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:88 data loss:0.002161, PDE loss:0.003571, physics loss:0.037590, total loss:1.885221
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:89 data loss:0.002083, PDE loss:0.003782, physics loss:0.025760, total loss:1.293886
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:90 data loss:0.001845, PDE loss:0.003988, physics loss:0.027185, total loss:1.365063
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:91 data loss:0.001963, PDE loss:0.003520, physics loss:0.051007, total loss:2.555831
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:92 data loss:0.002101, PDE loss:0.003629, physics loss:0.031911, total loss:1.601293
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:93 data loss:0.001855, PDE loss:0.003588, physics loss:0.041685, total loss:2.089701
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:94 data loss:0.001827, PDE loss:0.003425, physics loss:0.033434, total loss:1.676966
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:95 data loss:0.002003, PDE loss:0.003392, physics loss:0.035113, total loss:1.761028
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:96 data loss:0.001859, PDE loss:0.003628, physics loss:0.030626, total loss:1.536772
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:97 data loss:0.001757, PDE loss:0.003368, physics loss:0.041934, total loss:2.101835
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:98 data loss:0.001901, PDE loss:0.003578, physics loss:0.043827, total loss:2.196826
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:99 data loss:0.001923, PDE loss:0.003341, physics loss:0.027260, total loss:1.368264
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:100 data loss:0.002024, PDE loss:0.003275, physics loss:0.031236, total loss:1.567102
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:101 data loss:0.001702, PDE loss:0.003140, physics loss:0.045525, total loss:2.281113
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:102 data loss:0.001905, PDE loss:0.003098, physics loss:0.034794, total loss:1.744696
+2023-07-07 20:45 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:103 data loss:0.002127, PDE loss:0.003564, physics loss:0.029723, total loss:1.491834
+2023-07-07 20:46 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:104 data loss:0.001642, PDE loss:0.002955, physics loss:0.064897, total loss:3.249459
+2023-07-07 20:46 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:105 data loss:0.001995, PDE loss:0.003332, physics loss:0.034631, total loss:1.736864
+2023-07-07 20:46 - function:train_one_epoch - DEBUG - [train] epoch:2 iter:106 data loss:0.001730, PDE loss:0.003130, physics loss:0.029336, total loss:1.471644
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:2, lr:0.002276, data loss:0.003080, PDE loss:0.004971, physics loss:0.043094, total loss:2.162733
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:2, MSE: 0.0010055071907117963
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00088827, MAE: 0.026744, MAPE: 0.027367, RMSE: 0.029804
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:3, lr:0.002552, data loss:0.001352, PDE loss:0.002479, physics loss:0.043094, total loss:2.158514
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:3, MSE: 0.0006556998705491424
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00054372, MAE: 0.019801, MAPE: 0.020425, RMSE: 0.023318
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:4, lr:0.002828, data loss:0.000864, PDE loss:0.001516, physics loss:0.043094, total loss:2.157062
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:4, MSE: 0.0004412074922583997
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00036068, MAE: 0.015046, MAPE: 0.015625, RMSE: 0.018992
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:5, lr:0.003103, data loss:0.000642, PDE loss:0.001018, physics loss:0.043094, total loss:2.156342
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:5, MSE: 0.00039418492815457284
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00032427, MAE: 0.013780, MAPE: 0.014353, RMSE: 0.018007
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:6, lr:0.003379, data loss:0.000511, PDE loss:0.000718, physics loss:0.043094, total loss:2.155911
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:6, MSE: 0.0004324576002545655
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:7, lr:0.003655, data loss:0.000420, PDE loss:0.000531, physics loss:0.043094, total loss:2.155634
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:7, MSE: 0.00044477652409113944
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:8, lr:0.003931, data loss:0.000362, PDE loss:0.000402, physics loss:0.043094, total loss:2.155446
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:8, MSE: 0.00028012035181745887
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00024206, MAE: 0.011382, MAPE: 0.011881, RMSE: 0.015558
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:9, lr:0.004207, data loss:0.000316, PDE loss:0.000320, physics loss:0.043094, total loss:2.155319
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:9, MSE: 0.00034032415715046227
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:10, lr:0.004483, data loss:0.000276, PDE loss:0.000257, physics loss:0.043094, total loss:2.155215
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:10, MSE: 0.00024746041162870824
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00021867, MAE: 0.010482, MAPE: 0.010963, RMSE: 0.014788
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:11, lr:0.004759, data loss:0.000245, PDE loss:0.000207, physics loss:0.043094, total loss:2.155134
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:11, MSE: 0.00020505620341282338
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00018950, MAE: 0.009478, MAPE: 0.009922, RMSE: 0.013766
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:12, lr:0.005034, data loss:0.000218, PDE loss:0.000171, physics loss:0.043094, total loss:2.155071
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:12, MSE: 0.00018793312483467162
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00017359, MAE: 0.008711, MAPE: 0.009145, RMSE: 0.013176
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:13, lr:0.005310, data loss:0.000196, PDE loss:0.000144, physics loss:0.043094, total loss:2.155022
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:13, MSE: 0.00018246516992803663
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00017156, MAE: 0.008592, MAPE: 0.009028, RMSE: 0.013098
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:14, lr:0.005586, data loss:0.000179, PDE loss:0.000119, physics loss:0.043094, total loss:2.154980
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:14, MSE: 0.0001625426230020821
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00015635, MAE: 0.008041, MAPE: 0.008470, RMSE: 0.012504
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:15, lr:0.005862, data loss:0.000167, PDE loss:0.000102, physics loss:0.043094, total loss:2.154951
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:15, MSE: 0.00015295023331418633
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00015161, MAE: 0.007962, MAPE: 0.008368, RMSE: 0.012313
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:16, lr:0.006138, data loss:0.000154, PDE loss:0.000088, physics loss:0.043094, total loss:2.154924
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:16, MSE: 0.00013623405538965017
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00013878, MAE: 0.007540, MAPE: 0.007940, RMSE: 0.011780
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:17, lr:0.006414, data loss:0.000144, PDE loss:0.000075, physics loss:0.043094, total loss:2.154902
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:17, MSE: 0.0001491792791057378
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:18, lr:0.006690, data loss:0.000139, PDE loss:0.000065, physics loss:0.043094, total loss:2.154886
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:18, MSE: 0.00013955577742308378
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:19, lr:0.006966, data loss:0.000135, PDE loss:0.000057, physics loss:0.043094, total loss:2.154874
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:19, MSE: 0.00011842815729323775
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00013040, MAE: 0.007442, MAPE: 0.007833, RMSE: 0.011419
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:20, lr:0.007241, data loss:0.000131, PDE loss:0.000050, physics loss:0.043094, total loss:2.154863
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:20, MSE: 0.00013279705308377743
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:21, lr:0.007517, data loss:0.000128, PDE loss:0.000044, physics loss:0.043094, total loss:2.154854
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:21, MSE: 0.00010463318903930485
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00012050, MAE: 0.007344, MAPE: 0.007749, RMSE: 0.010977
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:22, lr:0.007793, data loss:0.000125, PDE loss:0.000040, physics loss:0.043094, total loss:2.154848
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:22, MSE: 0.0001625741133466363
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:23, lr:0.008069, data loss:0.000124, PDE loss:0.000036, physics loss:0.043094, total loss:2.154842
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:23, MSE: 0.00012344669084995985
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:24, lr:0.008345, data loss:0.000120, PDE loss:0.000032, physics loss:0.043094, total loss:2.154834
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:24, MSE: 0.00010804722114698961
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:25, lr:0.008621, data loss:0.000122, PDE loss:0.000029, physics loss:0.043094, total loss:2.154833
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:25, MSE: 0.00010886961536016315
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:26, lr:0.008897, data loss:0.000118, PDE loss:0.000026, physics loss:0.043094, total loss:2.154826
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:26, MSE: 0.00011955362424487248
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:27, lr:0.009172, data loss:0.000120, PDE loss:0.000024, physics loss:0.043094, total loss:2.154827
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:27, MSE: 0.00010611300240270793
+2023-07-07 20:46 - function:Train - INFO - [Train] epoch:28, lr:0.009448, data loss:0.000117, PDE loss:0.000022, physics loss:0.043094, total loss:2.154822
+2023-07-07 20:46 - function:Train - INFO - [Valid] epoch:28, MSE: 9.921001037582755e-05
+2023-07-07 20:46 - function:Train - INFO - [Test] MSE: 0.00011717, MAE: 0.007171, MAPE: 0.007556, RMSE: 0.010825
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:29, lr:0.009724, data loss:0.000115, PDE loss:0.000020, physics loss:0.043094, total loss:2.154817
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:29, MSE: 9.093725384445861e-05
+2023-07-07 20:47 - function:Train - INFO - [Test] MSE: 0.00011010, MAE: 0.007040, MAPE: 0.007425, RMSE: 0.010493
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:30, lr:0.010000, data loss:0.000113, PDE loss:0.000018, physics loss:0.043094, total loss:2.154814
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:30, MSE: 0.00010981083323713392
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:31, lr:0.010000, data loss:0.000114, PDE loss:0.000018, physics loss:0.043094, total loss:2.154815
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:31, MSE: 9.069850784726441e-05
+2023-07-07 20:47 - function:Train - INFO - [Test] MSE: 0.00011170, MAE: 0.007322, MAPE: 0.007733, RMSE: 0.010569
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:32, lr:0.009999, data loss:0.000114, PDE loss:0.000017, physics loss:0.043094, total loss:2.154812
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:32, MSE: 0.00011612955131568015
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:33, lr:0.009997, data loss:0.000112, PDE loss:0.000016, physics loss:0.043094, total loss:2.154810
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:33, MSE: 9.930547821568325e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:34, lr:0.009992, data loss:0.000111, PDE loss:0.000014, physics loss:0.043094, total loss:2.154807
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:34, MSE: 0.00011022622493328527
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:35, lr:0.009987, data loss:0.000106, PDE loss:0.000013, physics loss:0.043094, total loss:2.154802
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:35, MSE: 0.0001278202107641846
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:36, lr:0.009979, data loss:0.000114, PDE loss:0.000013, physics loss:0.043094, total loss:2.154809
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:36, MSE: 0.00014071461919229478
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:37, lr:0.009970, data loss:0.000112, PDE loss:0.000013, physics loss:0.043094, total loss:2.154807
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:37, MSE: 0.00013842368207406253
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:38, lr:0.009959, data loss:0.000108, PDE loss:0.000012, physics loss:0.043094, total loss:2.154802
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:38, MSE: 0.00010933578596450388
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:39, lr:0.009947, data loss:0.000108, PDE loss:0.000012, physics loss:0.043094, total loss:2.154803
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:39, MSE: 0.00010801178723340854
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:40, lr:0.009932, data loss:0.000105, PDE loss:0.000012, physics loss:0.043094, total loss:2.154799
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:40, MSE: 8.497648377669975e-05
+2023-07-07 20:47 - function:Train - INFO - [Test] MSE: 0.00009706, MAE: 0.006748, MAPE: 0.007119, RMSE: 0.009852
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:41, lr:0.009917, data loss:0.000103, PDE loss:0.000011, physics loss:0.043094, total loss:2.154796
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:41, MSE: 8.333655569003895e-05
+2023-07-07 20:47 - function:Train - INFO - [Test] MSE: 0.00010166, MAE: 0.006896, MAPE: 0.007283, RMSE: 0.010083
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:42, lr:0.009899, data loss:0.000110, PDE loss:0.000010, physics loss:0.043094, total loss:2.154803
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:42, MSE: 0.0001470926945330575
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:43, lr:0.009880, data loss:0.000108, PDE loss:0.000010, physics loss:0.043094, total loss:2.154799
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:43, MSE: 9.165141818812117e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:44, lr:0.009859, data loss:0.000102, PDE loss:0.000009, physics loss:0.043094, total loss:2.154793
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:44, MSE: 0.00011823592649307102
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:45, lr:0.009837, data loss:0.000102, PDE loss:0.000009, physics loss:0.043094, total loss:2.154793
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:45, MSE: 8.949545008363202e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:46, lr:0.009813, data loss:0.000110, PDE loss:0.000009, physics loss:0.043094, total loss:2.154801
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:46, MSE: 8.704650826985016e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:47, lr:0.009787, data loss:0.000105, PDE loss:0.000009, physics loss:0.043094, total loss:2.154796
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:47, MSE: 7.613883644808084e-05
+2023-07-07 20:47 - function:Train - INFO - [Test] MSE: 0.00009249, MAE: 0.006571, MAPE: 0.006945, RMSE: 0.009617
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:48, lr:0.009760, data loss:0.000124, PDE loss:0.000008, physics loss:0.043094, total loss:2.154815
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:48, MSE: 0.0001154702840722166
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:49, lr:0.009731, data loss:0.000114, PDE loss:0.000009, physics loss:0.043094, total loss:2.154805
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:49, MSE: 7.870734407333657e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:50, lr:0.009701, data loss:0.000104, PDE loss:0.000008, physics loss:0.043094, total loss:2.154794
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:50, MSE: 8.45131726237014e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:51, lr:0.009669, data loss:0.000103, PDE loss:0.000008, physics loss:0.043094, total loss:2.154794
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:51, MSE: 8.228491060435772e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:52, lr:0.009636, data loss:0.000112, PDE loss:0.000007, physics loss:0.043094, total loss:2.154801
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:52, MSE: 7.878919132053852e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:53, lr:0.009601, data loss:0.000100, PDE loss:0.000007, physics loss:0.043094, total loss:2.154789
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:53, MSE: 7.622560951858759e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:54, lr:0.009564, data loss:0.000103, PDE loss:0.000008, physics loss:0.043094, total loss:2.154794
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:54, MSE: 8.61347871250473e-05
+2023-07-07 20:47 - function:Train - INFO - [Train] epoch:55, lr:0.009526, data loss:0.000108, PDE loss:0.000006, physics loss:0.043094, total loss:2.154796
+2023-07-07 20:47 - function:Train - INFO - [Valid] epoch:55, MSE: 8.838774374453351e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:56, lr:0.009486, data loss:0.000101, PDE loss:0.000008, physics loss:0.043094, total loss:2.154791
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:56, MSE: 9.324267011834309e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:57, lr:0.009445, data loss:0.000103, PDE loss:0.000007, physics loss:0.043094, total loss:2.154792
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:57, MSE: 9.600634803064167e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:58, lr:0.009403, data loss:0.000098, PDE loss:0.000006, physics loss:0.043094, total loss:2.154787
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:58, MSE: 0.0001230381749337539
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:59, lr:0.009359, data loss:0.000101, PDE loss:0.000007, physics loss:0.043094, total loss:2.154790
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:59, MSE: 8.283024362754077e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:60, lr:0.009313, data loss:0.000099, PDE loss:0.000006, physics loss:0.043094, total loss:2.154787
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:60, MSE: 9.866063192021102e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:61, lr:0.009266, data loss:0.000105, PDE loss:0.000006, physics loss:0.043094, total loss:2.154794
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:61, MSE: 9.550870163366199e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:62, lr:0.009218, data loss:0.000103, PDE loss:0.000005, physics loss:0.043094, total loss:2.154790
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:62, MSE: 0.00011607373744482175
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:63, lr:0.009168, data loss:0.000104, PDE loss:0.000005, physics loss:0.043094, total loss:2.154791
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:63, MSE: 8.130622882163152e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:64, lr:0.009117, data loss:0.000093, PDE loss:0.000005, physics loss:0.043094, total loss:2.154781
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:64, MSE: 7.682697469135746e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:65, lr:0.009064, data loss:0.000095, PDE loss:0.000006, physics loss:0.043094, total loss:2.154783
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:65, MSE: 7.119163637980819e-05
+2023-07-07 20:48 - function:Train - INFO - [Test] MSE: 0.00008235, MAE: 0.006525, MAPE: 0.006882, RMSE: 0.009074
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:66, lr:0.009010, data loss:0.000097, PDE loss:0.000005, physics loss:0.043094, total loss:2.154785
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:66, MSE: 7.862669735914096e-05
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:67, lr:0.008955, data loss:0.000107, PDE loss:0.000005, physics loss:0.043094, total loss:2.154794
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:67, MSE: 0.00040860020089894533
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:68, lr:0.008898, data loss:0.122085, PDE loss:0.011644, physics loss:0.043094, total loss:2.288411
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:68, MSE: 0.0006537129520438612
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:69, lr:0.008841, data loss:0.000635, PDE loss:0.000023, physics loss:0.043094, total loss:2.155340
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:69, MSE: 0.0004441585624590516
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:70, lr:0.008782, data loss:0.000506, PDE loss:0.000015, physics loss:0.043094, total loss:2.155203
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:70, MSE: 0.0003549731627572328
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:71, lr:0.008721, data loss:0.000431, PDE loss:0.000011, physics loss:0.043094, total loss:2.155124
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:71, MSE: 0.00030670611886307597
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:72, lr:0.008660, data loss:0.000387, PDE loss:0.000008, physics loss:0.043094, total loss:2.155078
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:72, MSE: 0.0002757362090051174
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:73, lr:0.008597, data loss:0.000356, PDE loss:0.000007, physics loss:0.043094, total loss:2.155044
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:73, MSE: 0.00025190869928337634
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:74, lr:0.008533, data loss:0.000333, PDE loss:0.000005, physics loss:0.043094, total loss:2.155021
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:74, MSE: 0.00023957576195243746
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:75, lr:0.008467, data loss:0.000315, PDE loss:0.000005, physics loss:0.043094, total loss:2.155002
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:75, MSE: 0.00022713393263984472
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:76, lr:0.008401, data loss:0.000303, PDE loss:0.000004, physics loss:0.043094, total loss:2.154989
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:76, MSE: 0.00021734727488365024
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:77, lr:0.008334, data loss:0.000291, PDE loss:0.000003, physics loss:0.043094, total loss:2.154976
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:77, MSE: 0.00021070604270789772
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:78, lr:0.008265, data loss:0.000280, PDE loss:0.000003, physics loss:0.043094, total loss:2.154965
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:78, MSE: 0.00020523938292171806
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:79, lr:0.008195, data loss:0.000272, PDE loss:0.000003, physics loss:0.043094, total loss:2.154957
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:79, MSE: 0.00019712852372322232
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:80, lr:0.008125, data loss:0.000262, PDE loss:0.000002, physics loss:0.043094, total loss:2.154946
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:80, MSE: 0.00019231541955377907
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:81, lr:0.008053, data loss:0.000256, PDE loss:0.000002, physics loss:0.043094, total loss:2.154941
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:81, MSE: 0.00018597162852529436
+2023-07-07 20:48 - function:Train - INFO - [Train] epoch:82, lr:0.007980, data loss:0.000249, PDE loss:0.000002, physics loss:0.043094, total loss:2.154933
+2023-07-07 20:48 - function:Train - INFO - [Valid] epoch:82, MSE: 0.0001815133000491187
+2023-07-07 20:49 - function:Train - INFO - [Train] epoch:83, lr:0.007906, data loss:0.000243, PDE loss:0.000002, physics loss:0.043094, total loss:2.154927
+2023-07-07 20:49 - function:Train - INFO - [Valid] epoch:83, MSE: 0.0001762891188263893
+2023-07-07 20:49 - function:Train - INFO - [Train] epoch:84, lr:0.007832, data loss:0.000236, PDE loss:0.000002, physics loss:0.043094, total loss:2.154920
+2023-07-07 20:49 - function:Train - INFO - [Valid] epoch:84, MSE: 0.00017221154121216387
+2023-07-07 20:49 - function:Train - INFO - [Train] epoch:85, lr:0.007756, data loss:0.000229, PDE loss:0.000002, physics loss:0.043094, total loss:2.154913
+2023-07-07 20:49 - function:Train - INFO - [Valid] epoch:85, MSE: 0.00016779477300588042
+2023-07-07 20:49 - function:Train - INFO - [Train] epoch:86, lr:0.007680, data loss:0.000225, PDE loss:0.000002, physics loss:0.043094, total loss:2.154909
+2023-07-07 20:49 - function:Train - INFO - [Valid] epoch:86, MSE: 0.00016471983690280467
+2023-07-07 20:49 - function:Train - INFO - early stop at epoch 86
