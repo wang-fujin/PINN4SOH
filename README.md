@@ -1,5 +1,6 @@
 # PINN4SOH
-This code is for our paper: Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis
+This code is for our paper: [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://www.nature.com/articles/s41467-024-48779-z)
+
 
 
 # 1. System requirements
@@ -68,11 +69,24 @@ Raw data can be obtained from the following links:
 4. MIT dataset: [link](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
 
 
-
-
 ---
 
 We generated a comprehensive dataset consisting of 55 lithium-nickel-cobalt-manganese-oxide (NCM) batteries. 
 It is available at: [Link](https://wang-fujin.github.io/)
 
 ![https://github.com/wang-fujin/PINN4SOH/blob/main/xjtu%20battery%20dataset.png](https://github.com/wang-fujin/PINN4SOH/blob/main/xjtu%20battery%20dataset.png)
+
+# 5. Citation
+If you find it useful, please cite our paper:
+```bibtex
+@article{wang2024physics,
+  title={Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis},
+  author={Wang, Fujin and Zhai, Zhi and Zhao, Zhibin and Di, Yi and Chen, Xuefeng},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={4332},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
