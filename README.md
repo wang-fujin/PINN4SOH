@@ -68,7 +68,7 @@ Raw data can be obtained from the following links:
 3. HUST dataset: [link](https://data.mendeley.com/datasets/nsc7hnsg4s/2)
 4. MIT dataset: [link](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
 
-The code for reading the dataset is publicly available at [https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library](https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library)
+The code for **reading and preprocessing** the dataset is publicly available at [https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library](https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library)
 
 ---
 
