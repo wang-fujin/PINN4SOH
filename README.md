@@ -68,13 +68,19 @@ Raw data can be obtained from the following links:
 3. HUST dataset: [link](https://data.mendeley.com/datasets/nsc7hnsg4s/2)
 4. MIT dataset: [link](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
 
+The code for reading the dataset is publicly available at [https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library](https://github.com/wang-fujin/Battery-dataset-preprocessing-code-library)
 
 ---
 
 We generated a comprehensive dataset consisting of 55 lithium-nickel-cobalt-manganese-oxide (NCM) batteries. 
+
 It is available at: [Link](https://wang-fujin.github.io/)
 
+Zenodo link: [https://zenodo.org/records/10963339](https://zenodo.org/records/10963339).
+
 ![https://github.com/wang-fujin/PINN4SOH/blob/main/xjtu%20battery%20dataset.png](https://github.com/wang-fujin/PINN4SOH/blob/main/xjtu%20battery%20dataset.png)
+
+![https://github.com/wang-fujin/PINN4SOH/blob/main/6%20batches.png](https://github.com/wang-fujin/PINN4SOH/blob/main/6%20batches.png)
 
 # 5. Citation
 If you find it useful, please cite our paper:
