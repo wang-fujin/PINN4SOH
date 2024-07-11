@@ -251,8 +251,8 @@ class PINN(nn.Module):
             f_target = torch.zeros_like(f1)
             loss2 = 0.5*self.loss_func(f1,f_target) + 0.5*self.loss_func(f2,f_target)
 
-            # physics loss  y2-y1<0
-            loss3 = self.relu(y2-y1).sum()
+            # physics loss  u2-u1<0
+            loss3 = self.relu(u2-u1).sum()
 
             # total loss
             loss = loss1 + self.alpha*loss2 + self.beta*loss3
