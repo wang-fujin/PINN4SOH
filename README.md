@@ -1,7 +1,9 @@
 # PINN4SOH
 This code is for our paper: [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://www.nature.com/articles/s41467-024-48779-z)
 
-
+> [!IMPORTANT]
+Summary of articles using the XJTU Battery Dataset:
+https://github.com/wang-fujin/XJTU-Battery-Dataset-Papers-Summary
 
 # 1. System requirements
 python version: 3.7.10
