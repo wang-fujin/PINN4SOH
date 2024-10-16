@@ -38,8 +38,8 @@ class AdaPINN(PINN):
             f_target = torch.zeros_like(f1)
             loss2 = 0.5*self.loss_func(f1,f_target) + 0.5*self.loss_func(f2,f_target)
 
-            # physics loss  y2-y1<0
-            loss3 = self.relu(y2-y1).sum()
+            # physics loss  u2-u1<0, considering capacity regeneration effect
+            loss3 = self.relu(torch.mul(u2-u1,y1-y2)).sum()
 
             # total loss
             loss = loss1 + self.alpha*loss2 + self.beta*loss3
@@ -181,7 +181,7 @@ def get_args():
 
     # loss related
     parser.add_argument('--alpha', type=float, default=0.7, help='loss = l_data + alpha * l_PDE + beta * l_physics')
-    parser.add_argument('--beta', type=float, default=50, help='loss = l_data + alpha * l_PDE + beta * l_physics')
+    parser.add_argument('--beta', type=float, default=0.2, help='loss = l_data + alpha * l_PDE + beta * l_physics')
 
     parser.add_argument('--log_dir', type=str, default='logging.txt', help='log dir, if None, do not save')
     parser.add_argument('--save_folder', type=str, default='adaPINN_test', help='save folder')
