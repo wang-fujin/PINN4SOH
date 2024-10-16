@@ -97,7 +97,7 @@ def get_args():
 
     # loss related
     parser.add_argument('--alpha', type=float, default=0.7, help='loss = l_data + alpha * l_PDE + beta * l_physics')
-    parser.add_argument('--beta', type=float, default=20, help='loss = l_data + alpha * l_PDE + beta * l_physics')
+    parser.add_argument('--beta', type=float, default=0.2, help='loss = l_data + alpha * l_PDE + beta * l_physics')
 
     parser.add_argument('--log_dir', type=str, default='text log.txt', help='log dir, if None, do not save')
     parser.add_argument('--save_folder', type=str, default='results of reviewer/XJTU results', help='save folder')
